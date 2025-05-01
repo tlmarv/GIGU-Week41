@@ -385,7 +385,7 @@ const quizData = [
     "explanation": "ANP is released in response to atrial stretch and causes afferent dilation and ENaC inhibition, promoting natriuresis and diuresis. It also inhibits renin and aldosterone. (A) Sodium reabsorption is reduced. (B) Aldosterone is suppressed. (C) Correct. (D) GFR increases, not decreases. (E) Na+ reabsorption is not directly stimulated in TAL by ANP.)"
   },
   {
-    "question": "A 63-year-old man with congestive heart failure develops hyperkalemia. Labs show elevated creatinine and low urine output. Despite low plasma aldosterone, potassium continues to accumulate. Which of the following mechanisms best explains this patient's impaired potassium excretion?",
+    "question": "A 63-year-old man with congestive heart failure develops hyperkalemia. Labs show elevated creatinine and low urine output. Despite high plasma aldosterone, potassium continues to accumulate. Which of the following mechanisms best explains this patient's impaired potassium excretion?",
     "choices": [
       "Reduced Na+/K+ ATPase activity in the proximal tubule",
       "Decreased potassium secretion due to reduced distal nephron flow",
