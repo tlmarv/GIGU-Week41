@@ -419,7 +419,43 @@ const quizData = [
     ],
     "correctAnswer": 2,
     "explanation": "PTH promotes calcium retention and phosphate excretion. It increases distal calcium reabsorption and decreases proximal phosphate reabsorption by reducing the Tmax of Na-phosphate cotransporters. (A) PTH inhibits phosphate reabsorption. (B) Calcium is not suppressed in PCT. (C) Correct. (D) PTH suppresses phosphate reabsorption. (E) Opposite of PTH action.)"
-  }
+  },
+   {
+    "question": "A 62-year-old man dies unexpectedly from a massive pulmonary embolism in the emergency department despite immediate resuscitation. His spouse arrives moments after he is pronounced dead. As the attending physician, what is the most appropriate initial approach to this conversation?",
+    "choices": [
+      "Explain in detail how the clot obstructed the pulmonary artery and led to cardiac arrest",
+      "Begin by summarizing all interventions performed before informing the spouse of the death",
+      "Ask a nurse to bring the spouse to the bedside and quietly step out to respect their privacy",
+      "Sit with the spouse in a private room, deliver the news directly, allow silence, and remain emotionally present",
+      "Wait for the autopsy results before delivering any definitive news about the cause of death"
+    ],
+    "correctAnswer": 3,
+    "explanation": "When delivering tragic news, especially about sudden death, the focus should be on presence, empathy, and clarity. Physicians should avoid medical jargon, speak plainly, and most importantly, stay with the family through their initial grief. (A, B) Emphasizing clinical details or efforts may feel defensive or distancing. (C) Leaving the family alone at this critical moment neglects their need for support. (D) Correct. (E) Families need timely communication, even if some details are pending.)"
+  },
+  {
+    "question": "A 5-year-old boy dies suddenly during a routine surgery. His parents arrive at the hospital in disbelief. The surgeon is preparing to meet with them. Which of the following best reflects the physician’s priority in this initial conversation?",
+    "choices": [
+      "Describe the operative timeline and clarify each step taken by the surgical team",
+      "Use careful medical language to avoid alarming or confusing the parents",
+      "Begin by expressing sorrow, speak plainly about the death, and remain present as the family processes their grief",
+      "Emphasize that rare complications can happen even in healthy children",
+      "Defer emotional conversation and offer to schedule a follow-up discussion after the autopsy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Presence and empathy are paramount when communicating the death of a child. The family’s immediate needs are emotional validation and human connection, not explanation or justification. (A, D) While factual information is important, it should follow—not lead—the conversation. (B) Medical jargon should be avoided. (C) Correct. (E) Delaying communication undermines trust and compassion.)"
+  },
+{
+  "question": "A 71-year-old woman is found unresponsive and dies shortly after arrival to the emergency department. Her adult daughter arrives shortly after and asks, 'Is my mom okay?' Which of the following is the most appropriate response by the physician?",
+  "choices": [
+    "Your mother had a cardiac arrest. We tried everything we could, including chest compressions and medication, but she didn't make it.",
+    "She had a sudden deterioration, and we need to wait for further test results before saying more.",
+    "Let’s sit down. I’m so sorry—your mother died. I will stay here with you and answer any questions you have when you're ready.",
+    "We are still working on trying to understand what happened during her collapse.",
+    "I'm not sure how much you want to know, but I can explain the details of what we did if you’d like."
+  ],
+  "correctAnswer": 2,
+  "explanation": "In moments of profound loss, families need clarity, compassion, presence, and silence—not explanations or defenses. The best response is to be direct, speak gently, and stay with the person, allowing them space to process and grieve. (A) May feel clinical or overwhelming. (B) Delays honesty. (C) Correct. (D, E) Introduce uncertainty and shift focus away from the emotional reality.)"
+}
   ];
 let currentQuestionIndex = 0;
 let correctAnswers = 0;
